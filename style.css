@@ -106,6 +106,7 @@ header .container {
     margin-left: 4.5rem;
     display: inline-block;
     transition: 0.3s;
+    font-weight: 550;
 }
 
 .links a:hover {
@@ -195,11 +196,13 @@ header .container {
 }
 
 .text {
+    font-family: 'Poppins', sans-serif;
     color: var(--lightOne);
     font-size: 1.1rem;
     margin: 1.9rem 0 2.5rem;
     max-width: 600px;
     line-height: 2.3;
+    font-weight: 500;
 }
 
 .showcase-area .btn {
@@ -292,6 +295,7 @@ header .container {
     .text {
         font-size: 0.95rem;
         margin: 1.4rem 0 1.5rem;
+        
     }
     
     .logo h3 {
